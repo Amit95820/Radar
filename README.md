@@ -12,6 +12,9 @@ here there are three files radar_processing, servo_processing and OCRAExtended-3
 radar_processing is the processing file which can be opened through processing software.
 ### [link]:-  https://processing.org/download
 
+for arduino ide.
+### [link]:- https://www.arduino.cc/en/Main/Software
+
 OCRAExtended-30.vlw is the file which is responsible for the animation of radar, without this file no output screen will be shown
 
 servo_processing is an arduino file. which controls the servo. it will run in arduino ide.
